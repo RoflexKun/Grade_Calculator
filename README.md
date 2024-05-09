@@ -4,7 +4,7 @@ This project is made for Students to calculate their semestrial grade(Based on m
 
 ### History of Updates:
 
-#### **Update v0.1**
+#### **Update v1.0**
 
 -> You can Add your course name, no of credits & your final grade.
 
