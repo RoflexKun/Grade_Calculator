@@ -7,9 +7,6 @@ This project is made for Students to calculate their semestrial grade(Based on m
 #### **Update v1.0**
 
 -> You can Add your course name, no of credits & your final grade.
-
 -> Can check if the course grade adds to the final grade.
-
 -> Can check all the courses you added.
-
 -> Saves/Loads the courses you added, don't need to reenter them.
